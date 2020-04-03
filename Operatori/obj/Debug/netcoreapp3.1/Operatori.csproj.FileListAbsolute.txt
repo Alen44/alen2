@@ -1,0 +1,13 @@
+D:\PROJEKTI\alen2\Operatori\bin\Debug\netcoreapp3.1\Operatori.exe
+D:\PROJEKTI\alen2\Operatori\bin\Debug\netcoreapp3.1\Operatori.deps.json
+D:\PROJEKTI\alen2\Operatori\bin\Debug\netcoreapp3.1\Operatori.runtimeconfig.json
+D:\PROJEKTI\alen2\Operatori\bin\Debug\netcoreapp3.1\Operatori.runtimeconfig.dev.json
+D:\PROJEKTI\alen2\Operatori\bin\Debug\netcoreapp3.1\Operatori.dll
+D:\PROJEKTI\alen2\Operatori\bin\Debug\netcoreapp3.1\Operatori.pdb
+D:\PROJEKTI\alen2\Operatori\obj\Debug\netcoreapp3.1\Operatori.csprojAssemblyReference.cache
+D:\PROJEKTI\alen2\Operatori\obj\Debug\netcoreapp3.1\Operatori.csproj.CoreCompileInputs.cache
+D:\PROJEKTI\alen2\Operatori\obj\Debug\netcoreapp3.1\Operatori.AssemblyInfoInputs.cache
+D:\PROJEKTI\alen2\Operatori\obj\Debug\netcoreapp3.1\Operatori.AssemblyInfo.cs
+D:\PROJEKTI\alen2\Operatori\obj\Debug\netcoreapp3.1\Operatori.dll
+D:\PROJEKTI\alen2\Operatori\obj\Debug\netcoreapp3.1\Operatori.pdb
+D:\PROJEKTI\alen2\Operatori\obj\Debug\netcoreapp3.1\Operatori.genruntimeconfig.cache
