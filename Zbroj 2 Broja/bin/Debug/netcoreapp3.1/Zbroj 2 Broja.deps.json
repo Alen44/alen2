@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zbroj 2 Broja/1.0.0": {
+        "runtime": {
+          "Zbroj 2 Broja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zbroj 2 Broja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

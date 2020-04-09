@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatori", "Operatori.csproj", "{5DB5C50B-C292-4DC5-80DE-0335A4ECDABC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{BF313660-7F87-4640-8714-951C686D6FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulator", "..\Kalkulator\Kalkulator.csproj", "{5837A60A-082B-4418-B84B-4083F1A769CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{5DB5C50B-C292-4DC5-80DE-0335A4ECDABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB5C50B-C292-4DC5-80DE-0335A4ECDABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB5C50B-C292-4DC5-80DE-0335A4ECDABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5837A60A-082B-4418-B84B-4083F1A769CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5837A60A-082B-4418-B84B-4083F1A769CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5837A60A-082B-4418-B84B-4083F1A769CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5837A60A-082B-4418-B84B-4083F1A769CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5837A60A-082B-4418-B84B-4083F1A769CC} = {BF313660-7F87-4640-8714-951C686D6FB0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5C175806-8856-43E5-ABAC-A8ED050837EC}

@@ -1,0 +1,13 @@
+D:\PROJEKTI\alen2\Zbroj 2 Broja\bin\Debug\netcoreapp3.1\Zbroj 2 Broja.exe
+D:\PROJEKTI\alen2\Zbroj 2 Broja\bin\Debug\netcoreapp3.1\Zbroj 2 Broja.deps.json
+D:\PROJEKTI\alen2\Zbroj 2 Broja\bin\Debug\netcoreapp3.1\Zbroj 2 Broja.runtimeconfig.json
+D:\PROJEKTI\alen2\Zbroj 2 Broja\bin\Debug\netcoreapp3.1\Zbroj 2 Broja.runtimeconfig.dev.json
+D:\PROJEKTI\alen2\Zbroj 2 Broja\bin\Debug\netcoreapp3.1\Zbroj 2 Broja.dll
+D:\PROJEKTI\alen2\Zbroj 2 Broja\bin\Debug\netcoreapp3.1\Zbroj 2 Broja.pdb
+D:\PROJEKTI\alen2\Zbroj 2 Broja\obj\Debug\netcoreapp3.1\Zbroj 2 Broja.csprojAssemblyReference.cache
+D:\PROJEKTI\alen2\Zbroj 2 Broja\obj\Debug\netcoreapp3.1\Zbroj 2 Broja.csproj.CoreCompileInputs.cache
+D:\PROJEKTI\alen2\Zbroj 2 Broja\obj\Debug\netcoreapp3.1\Zbroj 2 Broja.AssemblyInfoInputs.cache
+D:\PROJEKTI\alen2\Zbroj 2 Broja\obj\Debug\netcoreapp3.1\Zbroj 2 Broja.AssemblyInfo.cs
+D:\PROJEKTI\alen2\Zbroj 2 Broja\obj\Debug\netcoreapp3.1\Zbroj 2 Broja.dll
+D:\PROJEKTI\alen2\Zbroj 2 Broja\obj\Debug\netcoreapp3.1\Zbroj 2 Broja.pdb
+D:\PROJEKTI\alen2\Zbroj 2 Broja\obj\Debug\netcoreapp3.1\Zbroj 2 Broja.genruntimeconfig.cache
