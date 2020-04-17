@@ -1,0 +1,13 @@
+D:\PROJEKTI\alen2\dani u tjednu\bin\Debug\netcoreapp3.1\dani u tjednu.exe
+D:\PROJEKTI\alen2\dani u tjednu\bin\Debug\netcoreapp3.1\dani u tjednu.deps.json
+D:\PROJEKTI\alen2\dani u tjednu\bin\Debug\netcoreapp3.1\dani u tjednu.runtimeconfig.json
+D:\PROJEKTI\alen2\dani u tjednu\bin\Debug\netcoreapp3.1\dani u tjednu.runtimeconfig.dev.json
+D:\PROJEKTI\alen2\dani u tjednu\bin\Debug\netcoreapp3.1\dani u tjednu.dll
+D:\PROJEKTI\alen2\dani u tjednu\bin\Debug\netcoreapp3.1\dani u tjednu.pdb
+D:\PROJEKTI\alen2\dani u tjednu\obj\Debug\netcoreapp3.1\dani u tjednu.csprojAssemblyReference.cache
+D:\PROJEKTI\alen2\dani u tjednu\obj\Debug\netcoreapp3.1\dani u tjednu.csproj.CoreCompileInputs.cache
+D:\PROJEKTI\alen2\dani u tjednu\obj\Debug\netcoreapp3.1\dani u tjednu.AssemblyInfoInputs.cache
+D:\PROJEKTI\alen2\dani u tjednu\obj\Debug\netcoreapp3.1\dani u tjednu.AssemblyInfo.cs
+D:\PROJEKTI\alen2\dani u tjednu\obj\Debug\netcoreapp3.1\dani u tjednu.dll
+D:\PROJEKTI\alen2\dani u tjednu\obj\Debug\netcoreapp3.1\dani u tjednu.pdb
+D:\PROJEKTI\alen2\dani u tjednu\obj\Debug\netcoreapp3.1\dani u tjednu.genruntimeconfig.cache
