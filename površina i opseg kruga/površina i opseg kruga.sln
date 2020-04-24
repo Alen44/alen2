@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "površina i opseg kruga", "površina i opseg kruga.csproj", "{871EE39E-FC23-4732-B6FC-6F4E66A55E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871EE39E-FC23-4732-B6FC-6F4E66A55E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871EE39E-FC23-4732-B6FC-6F4E66A55E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871EE39E-FC23-4732-B6FC-6F4E66A55E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871EE39E-FC23-4732-B6FC-6F4E66A55E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F57E8A-5722-41DF-814C-224C811176E8}
+	EndGlobalSection
+EndGlobal

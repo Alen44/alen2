@@ -1,0 +1,4 @@
+D:\PROJEKTI\alen2\prijestupna godina\obj\Debug\netcoreapp3.1\prijestupna godina.csprojAssemblyReference.cache
+D:\PROJEKTI\alen2\prijestupna godina\obj\Debug\netcoreapp3.1\prijestupna godina.csproj.CoreCompileInputs.cache
+D:\PROJEKTI\alen2\prijestupna godina\obj\Debug\netcoreapp3.1\prijestupna godina.AssemblyInfoInputs.cache
+D:\PROJEKTI\alen2\prijestupna godina\obj\Debug\netcoreapp3.1\prijestupna godina.AssemblyInfo.cs
